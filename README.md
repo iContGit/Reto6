@@ -1,4 +1,4 @@
 # Reto6
-Lebaorado por:
+Elaborado por:
 Andrés Peña
 Johan Gómez
